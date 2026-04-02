@@ -41,8 +41,6 @@ valor_media, pede a entrada do nome, das notas, chama uma função med(n1, n2,
 n3, n4) que calcula e retorna o valor da média aritmética, exiba em console a média
 e, por fim, chame o procedimento cadastro(nm, nt1, nt2, nt3, nt4, vlr_med);
 
-Python para SO – Arquivos e Funções Sistemas Operacionais
-Prof. Leandro Colevati FATEC ZL
 e. A função med, recebe como parâmetros, as 4 notas, inicializa uma variável local
 media (float), que recebe o cálculo da média aritmética das notas e será o retorno
 da função;
